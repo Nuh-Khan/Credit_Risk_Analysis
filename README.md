@@ -56,6 +56,7 @@ The outcomes of the six machine learning models, encompassing their correspondin
 * Precision (pre): The precision was low for High-Risk loans but was high for Low-Risk loans.
 * Recall (rec): High/Low risk = .911/.94
 
-
+## Summary
+In the context of balanced accuracy, the optimal machine learning model displays a value between 0 and 1, with a score closest to 1 indicating the best performance. For the credit card dataset, the Easy Ensemble AdaBoost Classifier emerges as the top choice, boasting a balanced accuracy of 0.925. Other models exhibit balanced accuracy scores below 0.80. Precision scores across all models are comparable and fall within an acceptable range. Regarding recall scores, which also range from 0 to 1, higher values signify superior models. The Easy Ensemble AdaBoost Classifier possesses the highest recall score, solidifying its position as the ultimate machine learning model for further credit card analysis.
 
 
