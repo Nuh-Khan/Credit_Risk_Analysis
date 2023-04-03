@@ -10,8 +10,8 @@ Credit risk poses an inherently unbalanced classification problem, as good loans
 * SMOTE algorithms
 * ClusterCentroids algorithm
 * SMOTEENN algorithm
-* BalancedRandomForestClassifier (bias reduction model)
-* EasyEnsembleClassifier (bias reduction model)
+* BalancedRandomForestClassifier 
+* EasyEnsembleClassifier 
 
 ### Purpose:
 
